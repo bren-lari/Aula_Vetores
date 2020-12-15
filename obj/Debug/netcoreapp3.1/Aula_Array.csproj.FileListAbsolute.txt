@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.exe
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.deps.json
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.runtimeconfig.json
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.dll
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\bin\Debug\netcoreapp3.1\Aula_Array.pdb
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.AssemblyInfo.cs
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.dll
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.pdb
+C:\Users\dev\Desktop\Csharp_Array\Aula_Array\obj\Debug\netcoreapp3.1\Aula_Array.genruntimeconfig.cache
